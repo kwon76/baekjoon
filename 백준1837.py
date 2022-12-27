@@ -55,6 +55,3 @@ for i in range(2, k):
     break
 if a:
   print("GOOD") #만약 a가 여전히 True라면, k보다 큰 소인수들로 이루어진 암호이므로 좋은 암호  
-    
-
-  
